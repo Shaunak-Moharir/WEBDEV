@@ -1,2 +1,3 @@
 # WEBDEV
-An online webdev ide with real time output display
+An online Web Development IDE with real-time output.
+Website is hosted at https://shaunak-moharir.github.io/WEBDEV/
